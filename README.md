@@ -18,5 +18,5 @@ Covering core skills needed for entry-level sys-admin and helpdesk roles.
 - [Lab 01 - Apache Web Server Setup] (lab01-apache-webserver.md)
 - [Lab 02 - User Management and Permissions](lab02-user-management.md)
 - [Lab 03 - SSH Key Authentication](lab03-ssh-key-auth.md)
- 
+- [Lab 04 - Firewall Setup with UFW](lab04-ufw-firewall.md) 
 
